@@ -30,29 +30,7 @@ Average score for ./images/cmu.jpg: 0.6978859901428223
 "Mobil" found in in file ./images/logo-types-collection.jpg
 "Advanced Micro Devices" found in in file ./images/logo-types-collection.jpg
 
-1. Уншихад хялбар
-Синхрон код шиг харагдаж, ойлгоход амар
 
-Үүрлэлт багатай, цэвэр бүтэцтэй
-
-2. Алдаа барьж авахад энгийн
-Try-catch блок ашигладаг
-
-Аль шатанд алдаа гарсныг тодорхой харуулна
-
-3. Debugging хялбар
-Шугам бүр дээр breakpoint тавих боломжтой
-
-Stack trace нь ойлгомжтой
-
-4. Нөхцөлт үйлдлүүд
-If-else, loop зэрэг бүтцүүдийг ашиглахад хялбар
-
-5. Код цөөн, илэрхий
-Ижил үйлдлийг цөөн мөрөөр бичнэ
-"Mastercard" found in in file ./images/logo-types-collection.jpg
-Average score for ./images/logo-types-collection.jpg: 0.9283903181552887
-```
 
 ## Async-ify-ing
 Reimplement the Promise version of `main` as an async version (in `mainAsync`). Your version of the code should not use `.then` and it should use `try/catch` instead of `.catch`.
